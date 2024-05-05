@@ -12,7 +12,7 @@ $filas=mysqli_num_rows($resultado);
 
 if($filas){
   
-    header("location:index.html");
+    header("location:../index.html");
 
 }else{
     ?>
