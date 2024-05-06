@@ -56,6 +56,11 @@ a {
      transition: all .3s ease-in-out;
 }
 
+.logo img {
+     width: 150px;
+     height: auto;
+}
+
 h1,
 h2,
 h3,
